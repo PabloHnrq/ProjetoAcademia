@@ -3,7 +3,7 @@
 Este é um projeto de sistema de academia em Java, implementado com base em classes e design patterns. O sistema possui classes para representar uma academia.
 
 ## Como Usar ##
-1. Clone o repositório: git clone https://github.com/seu-usuario/sistema-academia-java.git](https://github.com/PabloHnrq/ProjetoAcademia.git
+1. Clone o repositório: git clone https://github.com/PabloHnrq/ProjetoAcademia.git
 
 2. Abra o projeto em seu ambiente de desenvolvimento Java favorito.
 
